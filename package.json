@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@ethereumjs/common": "^4.0.0",
+    "@ethereumjs/tx": "^5.0.0",
+    "dotenv": "^16.3.1",
+    "elliptic": "^6.5.4",
+    "ethereumjs-tx": "^2.1.2",
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "^6.7.0"
+  }
+}
